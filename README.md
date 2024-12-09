@@ -2,15 +2,15 @@
 ### Hi Felipe is Here 👋
 
 - 🔭 Trabalho com Back-end em Java, Nodejs, Typescript/Javascript e Python ...
-- 🌱 Estou Estudando incessantemente e NodeJs/Typescript...
-- 👯 Trabalho na Empresa Olho no Carro ...
+- 🌱 I'm studyingClean Architecture...
+
 
 
 <div align="center" >
   
-  ### Olá, eu sou o Luiz Felipe
+  ### HI, I'm Luiz Felipe
   
-  #### Desenvolvedor Fullstack na Olho no Carro!
+  #### Developer Fullstack Freelancer on nowadays!
 
 </div>
 
