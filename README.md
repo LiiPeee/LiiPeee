@@ -2,7 +2,7 @@
 ### Hi Felipe is Here 👋
 
 - 🔭 I'm working Fullstack with Java, Nodejs, Typescript/Javascript e Python ...
-- 🌱 I'm studyingClean Architecture...
+
 
 
 
@@ -10,7 +10,8 @@
   
   ### HI, I'm Luiz Felipe
   
-  #### Developer Fullstack Freelancer on nowadays!
+  #### Developer Fullstack
+  !
 
 </div>
 
