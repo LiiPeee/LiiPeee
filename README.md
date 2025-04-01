@@ -1,7 +1,7 @@
 
 ### Hi Felipe is Here 👋
 
-- 🔭 I'm working Fullstack with Java, Nodejs, Typescript/Javascript e Python ...
+- 🔭 I'm working Fullstack with Java, Nodejs, Typescript/Javascript and Python ...
 
 
 
