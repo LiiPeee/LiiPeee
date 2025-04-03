@@ -10,8 +10,7 @@
   
   ### HI, I'm Luiz Felipe
   
-  #### Developer Fullstack
-  !
+  #### Developer Fullstack!
 
 </div>
 
